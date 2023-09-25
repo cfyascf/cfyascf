@@ -2,7 +2,7 @@
 
 assembly lover, trying really hard to study and to stay awake
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/9c/6c/bf/9c6cbf6422540efea28bdacbc3bee061.gif"/>
+<img align="right" width="500" src="https://i.pinimg.com/originals/9c/6c/bf/9c6cbf6422540efea28bdacbc3bee061.gif"/>
 
 ```kotlin
 typedef struct{
