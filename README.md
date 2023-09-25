@@ -19,7 +19,7 @@ int main(){
   yasmim.name = "yasmim da cunha freitas";
   yasmim.nick = "yasmi";
   yasmim.age = 18;
-  yasmim.uni = "positivo university";
+  yasmim.major = "computer science";
   yasmim.company = "robert bosch";
 
  return 0;
