@@ -1,4 +1,4 @@
-# hi there
+# hi there!
 
 assembly lover, 
 major in computer science and a software development aprentice at robert bosch ltda!
@@ -15,8 +15,6 @@ object **yasmim** {
 
 }
 ```
-
-[![cfyascf](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Status
 
