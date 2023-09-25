@@ -16,7 +16,7 @@ object **yasmim** {
 }
 ```
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![cfyascf](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Status
 
