@@ -9,7 +9,7 @@ typedef struct{
   char name[100];
   char nick[25];
   int age;
-  char uni[50];
+  char major[25];
   char company[50];
 } Self;
 
