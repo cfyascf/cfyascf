@@ -1,6 +1,6 @@
 # hi there!
 
-assembly lover, trying really hard to study
+assembly lover, trying really hard to study and to stay awake
 
 <img align="right" width="223" src="https://i.pinimg.com/originals/55/a2/c8/55a2c886df84983873852b3e7b308c31.gif" />
 
