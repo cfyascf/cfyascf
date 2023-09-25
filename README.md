@@ -25,7 +25,6 @@ int main(){
 }
 
 ```
-<div align="right"> All my girls<br/> K-I-S-S-I-N-G </div>
 ## socials
 
 👔 [LinkedIn]https://www.linkedin.com/in/yasmim-d-b57305235/[linkedin]
