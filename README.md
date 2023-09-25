@@ -3,7 +3,7 @@
 assembly lover, 
 major in computer science and a software development aprentice at robert bosch ltda!
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/50/52/54/50525491fe4a1b78122a8b4b97db5290.gif" />
+<img align="right" width="300" src="https://i.pinimg.com/originals/55/a2/c8/55a2c886df84983873852b3e7b308c31.gif" />
 
 ```kotlin
 object **yasmim** {
