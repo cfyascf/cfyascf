@@ -1,6 +1,8 @@
 # hi there!
 
-assembly lover, trying really hard to study and to stay awake
+I'm Yasmim, a brazilian girl majoring in computer science and working as
+a junior software developer at Robert Bosch. Focusing right now in learning
+Spring Boot, the only non-hateble java-based technology.
 
 <img align="right" width="30%" src="https://i.pinimg.com/originals/9c/6c/bf/9c6cbf6422540efea28bdacbc3bee061.gif"/>
 
